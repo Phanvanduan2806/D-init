@@ -59,3 +59,8 @@ git init
 
 Try Hard 💪💪💪 and Happy Coding 😉!
 _ReadMe sẽ được cập nhật theo issue/sự cố hoặc Policy._
+```
+Frontend login:  P@ssw0rd@@
+Email:  code@gowithdev.com
+Password:  A@u+cnHAQo[0
+```
