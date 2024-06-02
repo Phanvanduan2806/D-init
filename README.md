@@ -1,7 +1,7 @@
 # Tạo token
 https://github.com/settings/tokens/new
 ```
-git clone https://TOKEN@github.com/jk23yearr/wp-init DOMAIN
+git clone https://TOKEN@github.com/Phanvanduan2806/D-init.git
 ```
 # Setup Wordpress Site Starter
 - Hướng dẫn step by step setup source wp với docker trên localhost. 
