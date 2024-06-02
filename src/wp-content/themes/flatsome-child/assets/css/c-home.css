@@ -1,0 +1,10 @@
+.c-sidebar > .col-inner .is-divider {
+    display: none;
+}
+.c-sidebar > .col-inner {
+    position: sticky;
+    top: 110px;
+}
+.absolute-footer, html, .mfp-content{
+    background-color: #000 !important;
+}

@@ -1,0 +1,54 @@
+/* font */
+:root {
+  --main-font: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--main-font);
+}
+
+body {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.nav > li > a {
+  font-family: var(--main-font);
+  font-size: 15px;
+}
+
+.mobile-sidebar-levels-2 .nav > li > ul > li > a {
+  font-family: var(--main-font);
+}
+
+.nav > li > a,
+.mobile-sidebar-levels-2 .nav > li > ul > li > a {
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-font,
+.off-canvas-center .nav-sidebar.nav-vertical > li > a {
+  font-family: var(--main-font);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading-font,
+.banner h1,
+.banner h2 {
+  font-weight: 700;
+  font-style: normal;
+}
+/* END: font */

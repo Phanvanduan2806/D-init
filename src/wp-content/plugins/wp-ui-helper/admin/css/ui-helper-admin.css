@@ -1,0 +1,50 @@
+/* MENU */
+#toplevel_page_ui-helper div.wp-menu-image:before,
+#toplevel_page_ui-helper a {
+    color: yellow !important;
+}
+
+/* EXPORTS */
+.post-type-exports [name="post_title"] {
+    background-color: unset !important;
+}
+
+.post-type-exports #edit-slug-box {
+    display: none;
+}
+
+/* uih-main-admin */
+.uih-main-admin figcaption {
+    text-align: center;
+}
+
+.uih-main-admin img {
+    max-width: 100%;
+}
+
+.uih-main-admin {
+    max-width: 700px;
+    font-size: 1rem;
+    line-height: 23px;
+}
+
+/* 06-01 */
+#side-sortables,
+[data-name="image"] > .acf-input {
+    position: sticky !important;
+    top: 2.3rem;
+}
+
+.page-title-action[href$="sources"],
+.page-title-action[href$="exports"],
+.page-title-action[href$="imports"] {
+    display: none;
+}
+
+#TB_ajaxContent {
+    width: unset !important;
+}
+/* 13-01 */
+.post-type-exports [data-name="tech"]{
+    display: none;
+}
